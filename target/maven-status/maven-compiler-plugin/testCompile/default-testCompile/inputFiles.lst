@@ -1,0 +1,17 @@
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/pages/DashboardPage.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/pages/EmployeeSearchPage.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/runners/RunnerClass.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/runners/Regression.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/steps/PageInitializers.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/pages/AddEmployeePage.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/pages/LoginPage.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/steps/DashboardSteps.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/utils/Constants.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/steps/EmployeeSearchSteps.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/runners/Smoke.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/steps/LoginSteps.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/steps/AddEmployeeSteps.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/utils/ConfigReader.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/steps/Hooks.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/utils/ExcelReader.java
+/Users/BaySmokin/IdeaProjects/CucumberFrameworkBatch12/src/test/java/utils/CommonMethods.java
