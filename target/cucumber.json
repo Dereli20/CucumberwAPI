@@ -1,0 +1,41 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-06-18T15:06:23.643Z",
+        "line": 4,
+        "name": "",
+        "description": "",
+        "id": "this-feature-covers-all-the-api-related-scenario;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2920917000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "a JWT is generated",
+            "match": {
+              "location": "APISteps.GenerateTokenSteps.a_jwt_is_generated()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@api"
+          }
+        ]
+      }
+    ],
+    "name": "This feature covers all the API related scenario",
+    "description": "",
+    "id": "this-feature-covers-all-the-api-related-scenario",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/APIWorkflow.feature",
+    "tags": []
+  }
+]

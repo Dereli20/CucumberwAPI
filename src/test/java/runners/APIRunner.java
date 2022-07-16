@@ -1,0 +1,35 @@
+package runners;
+
+
+import io.cucumber.junit.Cucumber;
+import io.cucumber.junit.CucumberOptions;
+import org.junit.runner.RunWith;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(
+        //features we used to provide the path of all the feature files
+        features = "src/test/resources/features/APIWorkflow.feature",
+        //glues is where we find implementations for gherkin steps
+        //we provide the path of package to get all the step definitions
+        //don't forget put coma
+        glue = "APISteps",
+        //dryRun we use to get the step definitions of undefined steps.
+        //if we set it to true, it will quickly scan all gherkin steps whether they are implemented or not
+        //if we set it to true, it stops actual execution
+        // if to execute scripts in real time, we should set this value false
+        dryRun = false,
+        //it means the console output for cucumber test is having irrelevant information
+        //when we set it to true, it simply removes all the irrelevant information
+        monochrome = true,
+        tags = "@api",
+
+        //html report will be generated under target folder
+        plugin = {"html:target/cucumber.html", "pretty","json:target/cucumber.json",
+                "rerun:target/failed.txt"
+
+
+        }
+
+)
+public class APIRunner {
+}
